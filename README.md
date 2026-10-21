@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OficinaTech
 
 Projeto da disciplina de Programação Orientada a Objetos II.
@@ -16,3 +17,6 @@ Sistema fictício para gerenciamento de uma oficina mecânica.
 ```bash
 python main.py
 ```
+=======
+# AutoTechGusta
+>>>>>>> eda23873599f3ade9bde22577c5552b7bacacab4
